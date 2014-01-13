@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Freemans": "Restaurant / Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99248540401459,
+          40.721870014294026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "The Vig Bar": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9945265650749,
+          40.72115649522023
+        ]
+      }
+    }
+  ]
+}
